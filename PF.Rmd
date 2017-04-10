@@ -1,5 +1,5 @@
 ---
-title: "PF"
+title: "PF" SPEED DATING
 author: "Wilhelm Roee"
 date: "April 10, 2017"
 output: 
@@ -96,7 +96,7 @@ adj$pf_o_sha = normalize(adj$pf_o_sha)
 adj$attr_o = normalize(adj$attr_o)
 adj$fun_o = normalize(adj$fun_o)
 adj$amb_o = normalize(adj$amb_o)
-adj$prob_o = normalize(adj$prob_o)
+adj$prob_o= normalize(adj$prob_o)
 adj$met_o = normalize(adj$met_o)
 adj$exercise = normalize(adj$exercise)
 adj$art = normalize(adj$art)
